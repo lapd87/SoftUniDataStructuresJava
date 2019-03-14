@@ -1,0 +1,74 @@
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
+
+import java.time.LocalDate;
+import java.util.*;
+import java.util.function.Function;
+import java.util.stream.Collectors;
+
+public class PTest09 {
+
+    private Generator generator;
+    private Agency agency;
+
+    @Before
+    public void init() {
+        this.agency = new AgencyImpl();
+        this.generator = new Generator();
+    }
+
+    @Test
+    public void payInvoice_200000_elements() {
+
+        List<Invoice> invoices = this.generator.generateInvoices(200000);
+        Optional<Map.Entry<LocalDate, Long>> mostOccurrences = this.generator.getMostOccurrences(invoices, Invoice::getDueDate);
+
+        invoices.forEach(i -> this.agency.create(i));
+
+        long start = System.currentTimeMillis();
+        this.agency.payInvoice(mostOccurrences.get().getKey());
+        long stop = System.currentTimeMillis();
+
+        long elapsedTime = stop - start;
+        // CHECK judge time
+//     throw new IllegalArgumentException("Time: " + elapsedTime);
+
+        Assert.assertTrue(elapsedTime <= 3);
+
+    }
+
+    static class Generator {
+        private static final Random RANDOM = new Random();
+        private static final String[] COMPANIES = {"HRS", "SoftUni", "Expedia", "SBTech", "Codexio", "VMWare", "Musala", "Chaos Group", "PaySafe", "Motion", "Locktrip"};
+
+        List<Invoice> generateInvoices(int count) {
+            List<Invoice> generated = new ArrayList<>();
+            for (int i = 0; i < count; i++) {
+                String uuid = UUID.randomUUID().toString();
+                String company = COMPANIES[Math.abs(RANDOM.nextInt()) % COMPANIES.length];
+                double subTotal = RANDOM.nextDouble() * Math.abs(RANDOM.nextInt());
+                Department department = Department.values()[Math.abs(RANDOM.nextInt()) % Department.values().length];
+                LocalDate issueDate = LocalDate.ofEpochDay(getRandomDay(2010, 2015));
+                LocalDate dueDate = LocalDate.ofEpochDay(getRandomDay(2018, 2020));
+                generated.add(new Invoice(uuid, company, subTotal, department, issueDate, dueDate));
+
+            }
+            return generated;
+        }
+
+        <T> Optional<Map.Entry<T, Long>> getMostOccurrences(List<Invoice> invoices, Function<Invoice,T> function) {
+            return invoices.stream()
+                    .collect(Collectors.groupingBy(function, Collectors.counting()))
+                    .entrySet()
+                    .stream()
+                    .max(Comparator.comparing(Map.Entry::getValue));
+        }
+
+        private long getRandomDay(int min, int max) {
+            int minDay = (int) LocalDate.of(min, 1, 1).toEpochDay();
+            int maxDay = (int) LocalDate.of(max, 1, 1).toEpochDay();
+            return minDay + RANDOM.nextInt(maxDay - minDay);
+        }
+    }
+}

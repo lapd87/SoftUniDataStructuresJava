@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd61cc7b-c64c-4b75-99e7-579d2d2fc1ac" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-313763503">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="57" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1547" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6070" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1565824945">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="8" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="117" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_08DoublyLinkedList/DoublyLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="132" column="27" lean-forward="true" selection-start-line="121" selection-start-column="6" selection-end-line="132" selection-end-column="27" />
+              <folding>
+                <element signature="class#Node#0;class#DoublyLinkedList#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>resi</find>
+      <find>resiz</find>
+      <find>resize</find>
+      <find>while</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\VBprojects\DataStructures12.2018\01ListsAndComplexity\src\_06ReversedList</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/_001ArrayList/ListIterator.java" />
+        <option value="$PROJECT_DIR$/src/_001ArrayList/ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/_001ArrayList/Main.java" />
+        <option value="$PROJECT_DIR$/src/_001ArrList/ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/_001ArrList/ArrList.java" />
+        <option value="$PROJECT_DIR$/src/_001ArrList/arrayListTests/ArrayListTests.java" />
+        <option value="$PROJECT_DIR$/src/_001ArrList/Main.java" />
+        <option value="$PROJECT_DIR$/src/_001ArrList/arrayList/ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/arrayListTests/ArrayListTests.java" />
+        <option value="$PROJECT_DIR$/src/arrayList/ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/_01SumAndAverage/_01SumAndAverage.java" />
+        <option value="$PROJECT_DIR$/src/_02SortWords/_02SortWords.java" />
+        <option value="$PROJECT_DIR$/src/_03LongestSubsequence/_03LongestSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/_04RemoveOddOccurrences/_04RemoveOddOccurrences.java" />
+        <option value="$PROJECT_DIR$/src/_05CountOfOccurences/_05CountOfOccurences.java" />
+        <option value="$PROJECT_DIR$/src/_06ReversedList/DoublyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/_06ReversedList/_06ReversedList.java" />
+        <option value="$PROJECT_DIR$/src/_07DistanceInLabyrinth/_07DistanceInLabyrinth.java" />
+        <option value="$PROJECT_DIR$/src/_08DoublyLinkedList/DoublyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/_06ReversedList/Main.java" />
+        <option value="$PROJECT_DIR$/src/_06ReversedList/ReversedList.java" />
+        <option value="$PROJECT_DIR$/src/_001ArrayList/arrayList/ArrayList.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="982" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="01ListsAndComplexity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01ListsAndComplexity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01ListsAndComplexity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01ListsAndComplexity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547126986404" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\VBprojects\DataStructures12.2018\01.ListsAndComplexity\src\_001ArrayList" />
+      <recent name="C:\VBprojects\DataStructures12.2018\01.ListsAndComplexity\src\" />
+      <recent name="C:\VBprojects\DataStructures12.2018\01.ListsAndComplexity\src\\" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\VBprojects\DataStructures12.2018\01.ListsAndComplexity\src\_08DoublyLinkedList" />
+      <recent name="C:\VBprojects\DataStructures12.2018\01.ListsAndComplexity\src\_06ReversedList" />
+      <recent name="C:\VBprojects\DataStructures12.2018\01.ListsAndComplexity\src\_001ArrList" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="_001ArrayList" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_06ReversedList.Main" />
+      <module name="01ListsAndComplexity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_06ReversedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_07DistanceInLabyrinth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07DistanceInLabyrinth._07DistanceInLabyrinth" />
+      <module name="01ListsAndComplexity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_07DistanceInLabyrinth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTestsDoublyLinkedList (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="01ListsAndComplexity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_08DoublyLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_08DoublyLinkedList" />
+      <option name="MAIN_CLASS_NAME" value="_08DoublyLinkedList.UnitTestsDoublyLinkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTestsDoublyLinkedList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="01ListsAndComplexity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_06ReversedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_06ReversedList" />
+      <option name="MAIN_CLASS_NAME" value="_06ReversedList.UnitTestsDoublyLinkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTestsDoublyLinkedList.addLast_severalElements_shouldAddElementsCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="01ListsAndComplexity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_06ReversedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_06ReversedList" />
+      <option name="MAIN_CLASS_NAME" value="_06ReversedList.UnitTestsDoublyLinkedList" />
+      <option name="METHOD_NAME" value="addLast_severalElements_shouldAddElementsCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UnitTestsDoublyLinkedList" />
+      <item itemvalue="JUnit.UnitTestsDoublyLinkedList.addLast_severalElements_shouldAddElementsCorrectly" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application._07DistanceInLabyrinth" />
+      <item itemvalue="JUnit.UnitTestsDoublyLinkedList (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.UnitTestsDoublyLinkedList (1)" />
+        <item itemvalue="Application._07DistanceInLabyrinth" />
+        <item itemvalue="JUnit.UnitTestsDoublyLinkedList.addLast_severalElements_shouldAddElementsCorrectly" />
+        <item itemvalue="JUnit.UnitTestsDoublyLinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd61cc7b-c64c-4b75-99e7-579d2d2fc1ac" name="Default Changelist" comment="" />
+      <created>1545380714588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545380714588</updated>
+      <workItem from="1545380717333" duration="4500000" />
+      <workItem from="1545405670273" duration="2465000" />
+      <workItem from="1545408452304" duration="14000" />
+      <workItem from="1545408511888" duration="6000" />
+      <workItem from="1545811583696" duration="10256000" />
+      <workItem from="1545900344626" duration="11025000" />
+      <workItem from="1547018235753" duration="4094000" />
+      <workItem from="1547022377270" duration="64000" />
+      <workItem from="1547023828837" duration="22000" />
+      <workItem from="1547121706455" duration="433000" />
+      <workItem from="1547122203977" duration="1269000" />
+      <workItem from="1547124592737" duration="116000" />
+      <workItem from="1547126707743" duration="289000" />
+      <workItem from="1547196977498" duration="54000" />
+      <workItem from="1547199859591" duration="30000" />
+      <workItem from="1547200190903" duration="450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ArrayListTests_setSingleElement - 2018.12.21 at 17h 39m 16s.xml">
+      <configuration name="ArrayListTests.setSingleElement" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTests - 2018.12.21 at 17h 39m 22s.xml">
+      <configuration name="ArrayListTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTests - 2018.12.21 at 17h 56m 41s.xml">
+      <configuration name="ArrayListTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnitTestsDoublyLinkedList - 2018.12.26 at 15h 56m 04s.xml">
+      <configuration name="UnitTestsDoublyLinkedList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnitTestsDoublyLinkedList_addLast_severalElements_shouldAddElementsCorrectly - 2018.12.26 at 15h 57m 02s.xml">
+      <configuration name="UnitTestsDoublyLinkedList.addLast_severalElements_shouldAddElementsCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnitTestsDoublyLinkedList_(1) - 2018.12.27 at 13h 24m 12s.xml">
+      <configuration name="UnitTestsDoublyLinkedList (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnitTestsDoublyLinkedList_(1) - 2018.12.27 at 13h 27m 11s.xml">
+      <configuration name="UnitTestsDoublyLinkedList (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnitTestsDoublyLinkedList_(1) - 2018.12.27 at 13h 32m 17s.xml">
+      <configuration name="UnitTestsDoublyLinkedList (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnitTestsDoublyLinkedList_(1) - 2018.12.27 at 13h 45m 03s.xml">
+      <configuration name="UnitTestsDoublyLinkedList (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnitTestsDoublyLinkedList_(1) - 2018.12.27 at 13h 48m 08s.xml">
+      <configuration name="UnitTestsDoublyLinkedList (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35087000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="0" width="960" height="982" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37556562" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3275218" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38980892" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3299363" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/_001ArrayList/ListIterator.java" />
+    <entry file="file://$PROJECT_DIR$/src/_001ArrList/ArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/_001ArrayList/arrayListTests/ArrayListTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1197">
+          <caret line="59" column="20" lean-forward="true" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001ArrayList/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01SumAndAverage/_01SumAndAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="20" selection-start-line="20" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_02SortWords/_02SortWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_03LongestSubsequence/_03LongestSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="26" column="46" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_05CountOfOccurences/_05CountOfOccurences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_04RemoveOddOccurrences/_04RemoveOddOccurrences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_06ReversedList/DoublyLinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/src/_06ReversedList/UnitTestsDoublyLinkedList.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_07DistanceInLabyrinth/_07DistanceInLabyrinth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="25" lean-forward="true" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="869" column="23" selection-start-line="869" selection-start-column="23" selection-end-line="869" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_08DoublyLinkedList/UnitTestsDoublyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="235" selection-start-line="235" selection-end-line="235" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_08DoublyLinkedList/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_06ReversedList/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_06ReversedList/ReversedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001ArrayList/arrayList/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="98" column="1" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_08DoublyLinkedList/DoublyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="132" column="27" lean-forward="true" selection-start-line="121" selection-start-column="6" selection-end-line="132" selection-end-column="27" />
+          <folding>
+            <element signature="class#Node#0;class#DoublyLinkedList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

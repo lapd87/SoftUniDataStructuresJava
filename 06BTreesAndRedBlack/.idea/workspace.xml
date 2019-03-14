@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="726d3a6c-5f7f-4fdd-94c5-4a792d6c9fbb" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ille</find>
+      <find>ill</find>
+      <find>rem</find>
+      <find>getpar</find>
+      <find>conta</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/_001RedBlackTreeInsert/Main.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/HierarchyStructureInitializer.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/performance/AddPerformance.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/performance/ContainsPerformance.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/performance/ForEachPerformance.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/performance/GetChildrenPerformance.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/performance/GetCommonElementsPerformance.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/performance/GetParentPerformance.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/performance/RemovePerformance.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/helpers/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/correctness/Add.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/correctness/Constructor.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/correctness/Contains.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/correctness/ForEach.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/correctness/GetChildren.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/correctness/GetCommonElements.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/correctness/GetParent.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/test/correctness/Remove.java" />
+        <option value="$PROJECT_DIR$/src/_001RedBlackTreeInsert/RedBlackTree.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/types/CorrectnessTests.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/main/Hierarchy.java" />
+        <option value="$PROJECT_DIR$/src/_01Hierarchy/main/IHierarchy.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="960" />
+    <option name="height" value="982" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="06BTreesAndRedBlack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06BTreesAndRedBlack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06BTreesAndRedBlack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06BTreesAndRedBlack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="06BTreesAndRedBlack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="06BTreesAndRedBlack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_001RedBlackTreeInsert" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549266440923" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\VBprojects\DataStructures12.2018\06BTreesAndRedBlack\src" />
+      <recent name="C:\VBprojects\DataStructures12.2018\06BTreesAndRedBlack\src\_01Hierarchy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.test in 06BTreesAndRedBlack">
+    <configuration name="ForEach.ForEach_WithMultipleElements_ShouldIterateOverCollectionOnlyOnce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06BTreesAndRedBlack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01Hierarchy.test.correctness.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_01Hierarchy.test.correctness" />
+      <option name="MAIN_CLASS_NAME" value="_01Hierarchy.test.correctness.ForEach" />
+      <option name="METHOD_NAME" value="ForEach_WithMultipleElements_ShouldIterateOverCollectionOnlyOnce" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEach.ForEach_WithMultipleElements_ShouldIterateThroughThemInCorrectOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06BTreesAndRedBlack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01Hierarchy.test.correctness.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_01Hierarchy.test.correctness" />
+      <option name="MAIN_CLASS_NAME" value="_01Hierarchy.test.correctness.ForEach" />
+      <option name="METHOD_NAME" value="ForEach_WithMultipleElements_ShouldIterateThroughThemInCorrectOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEach.ForEach_WithOnlyRoot_ShouldIterateOnlyThroughRoot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06BTreesAndRedBlack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01Hierarchy.test.correctness.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_01Hierarchy.test.correctness" />
+      <option name="MAIN_CLASS_NAME" value="_01Hierarchy.test.correctness.ForEach" />
+      <option name="METHOD_NAME" value="ForEach_WithOnlyRoot_ShouldIterateOnlyThroughRoot" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01Hierarchy.test in 06BTreesAndRedBlack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06BTreesAndRedBlack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01Hierarchy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_01Hierarchy.test" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test in 06BTreesAndRedBlack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06BTreesAndRedBlack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit._01Hierarchy.test in 06BTreesAndRedBlack" />
+      <item itemvalue="JUnit.ForEach.ForEach_WithOnlyRoot_ShouldIterateOnlyThroughRoot" />
+      <item itemvalue="JUnit.ForEach.ForEach_WithMultipleElements_ShouldIterateThroughThemInCorrectOrder" />
+      <item itemvalue="JUnit.ForEach.ForEach_WithMultipleElements_ShouldIterateOverCollectionOnlyOnce" />
+      <item itemvalue="JUnit.test in 06BTreesAndRedBlack" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test in 06BTreesAndRedBlack" />
+        <item itemvalue="JUnit._01Hierarchy.test in 06BTreesAndRedBlack" />
+        <item itemvalue="JUnit.ForEach.ForEach_WithMultipleElements_ShouldIterateOverCollectionOnlyOnce" />
+        <item itemvalue="JUnit.ForEach.ForEach_WithMultipleElements_ShouldIterateThroughThemInCorrectOrder" />
+        <item itemvalue="JUnit.ForEach.ForEach_WithOnlyRoot_ShouldIterateOnlyThroughRoot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="726d3a6c-5f7f-4fdd-94c5-4a792d6c9fbb" name="Default Changelist" comment="" />
+      <created>1547544994248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547544994248</updated>
+      <workItem from="1547544997695" duration="275000" />
+      <workItem from="1547552749603" duration="14000" />
+      <workItem from="1547709658196" duration="20213000" />
+      <workItem from="1547735418785" duration="629000" />
+      <workItem from="1547736688751" duration="36000" />
+      <workItem from="1547810509129" duration="660000" />
+      <workItem from="1548018452689" duration="448000" />
+      <workItem from="1548078242381" duration="255000" />
+      <workItem from="1548078524038" duration="29000" />
+      <workItem from="1548514844733" duration="62000" />
+      <workItem from="1548514975614" duration="10000" />
+      <workItem from="1549266348496" duration="101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_01Hierarchy_test_in_06BTreesAndRedBlack - 2019.01.17 at 16h 10m 16s.xml">
+      <configuration name="_01Hierarchy.test in 06BTreesAndRedBlack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ForEach_ForEach_WithMultipleElements_ShouldIterateThroughThemInCorrectOrder - 2019.01.17 at 16h 12m 05s.xml">
+      <configuration name="ForEach.ForEach_WithMultipleElements_ShouldIterateThroughThemInCorrectOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ForEach_ForEach_WithMultipleElements_ShouldIterateThroughThemInCorrectOrder - 2019.01.17 at 16h 12m 15s.xml">
+      <configuration name="ForEach.ForEach_WithMultipleElements_ShouldIterateThroughThemInCorrectOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="_01Hierarchy_test_in_06BTreesAndRedBlack - 2019.01.17 at 16h 21m 07s.xml">
+      <configuration name="_01Hierarchy.test in 06BTreesAndRedBlack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="_01Hierarchy_test_in_06BTreesAndRedBlack - 2019.01.17 at 16h 21m 09s.xml">
+      <configuration name="_01Hierarchy.test in 06BTreesAndRedBlack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ForEach_ForEach_WithMultipleElements_ShouldIterateOverCollectionOnlyOnce - 2019.01.17 at 16h 24m 24s.xml">
+      <configuration name="ForEach.ForEach_WithMultipleElements_ShouldIterateOverCollectionOnlyOnce" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ForEach_ForEach_WithMultipleElements_ShouldIterateThroughThemInCorrectOrder - 2019.01.17 at 16h 24m 24s.xml">
+      <configuration name="ForEach.ForEach_WithMultipleElements_ShouldIterateThroughThemInCorrectOrder" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ForEach_ForEach_WithMultipleElements_ShouldIterateOverCollectionOnlyOnce - 2019.01.17 at 16h 26m 48s.xml">
+      <configuration name="ForEach.ForEach_WithMultipleElements_ShouldIterateOverCollectionOnlyOnce" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="_01Hierarchy_test_in_06BTreesAndRedBlack - 2019.01.17 at 16h 27m 11s.xml">
+      <configuration name="_01Hierarchy.test in 06BTreesAndRedBlack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_in_06BTreesAndRedBlack - 2019.01.18 at 13h 22m 29s.xml">
+      <configuration name="test in 06BTreesAndRedBlack" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22732000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="960" height="982" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3325792" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30495554" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40846825" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3299363" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_001RedBlackTreeInsert/RedBlackTreeTests.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_001RedBlackTreeInsert/RedBlackTreeTests.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_01Hierarchy/test/correctness/Remove.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_01Hierarchy/test/correctness/Remove.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_01Hierarchy/test/correctness/ForEach.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_01Hierarchy/test/correctness/ForEach.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/performance/AddPerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/performance/ContainsPerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/performance/ForEachPerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/performance/GetChildrenPerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/performance/GetCommonElementsPerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/performance/GetParentPerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/performance/RemovePerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/correctness/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/correctness/Contains.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/correctness/GetCommonElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/correctness/GetParent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001RedBlackTreeInsert/RedBlackTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/HierarchyStructureInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/helpers/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/correctness/GetChildren.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/correctness/Remove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/correctness/Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/test/correctness/ForEach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/helpers/BaseTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/types/PerformanceTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/correctness/ForEach.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/correctness/Add.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/correctness/Contains.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/helpers/IterableExtensions.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/performance/ContainsPerformance.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/types/CorrectnessTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Hierarchy.java" />
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/main/Hierarchy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01Hierarchy/main/IHierarchy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001RedBlackTreeInsert/RedBlackTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1239">
+          <caret line="81" column="24" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#preOrderCopy#0;class#RedBlackTree#0" />
+            <element signature="method#search#0;class#RedBlackTree#0" />
+            <element signature="method#eachInOrder#1;class#RedBlackTree#0" />
+            <element signature="method#range#0;class#RedBlackTree#0" />
+            <element signature="method#range#1;class#RedBlackTree#0" />
+            <element signature="method#minValue#0;class#RedBlackTree#0" />
+            <element signature="method#deleteMin#0;class#RedBlackTree#0" />
+            <element signature="method#deleteMax#0;class#RedBlackTree#0" />
+            <element signature="method#deleteRecursive#0;class#RedBlackTree#0" />
+            <element signature="method#rank#1;class#RedBlackTree#0" />
+            <element signature="method#select#0;class#RedBlackTree#0" />
+            <element signature="method#select#1;class#RedBlackTree#0" />
+            <element signature="method#size#0;class#RedBlackTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001RedBlackTreeInsert/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>06BTreesAndRedBlack</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0fb881f-f0d6-43c2-8cb2-064fd35ac4c3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_08SubtreesWithGivenSum/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="214" selection-start-line="214" selection-end-line="214" />
+              <folding>
+                <element signature="method#getTreeNodeByValue#0;class#Main#0" />
+                <element signature="method#addEdge#0;class#Main#0" />
+                <element signature="method#ReadTree#0;class#Main#0" />
+                <element signature="method#printTree#1;class#Main#0" />
+                <element signature="method#getLeafNodes#0;class#Main#0" />
+                <element signature="method#getMiddleNodes#0;class#Main#0" />
+                <element signature="method#getDeepestNode#0;class#Main#0" />
+                <element signature="method#getDeepestNode#1;class#Main#0" />
+                <element signature="method#getLongestPath#0;class#Main#0" />
+                <element signature="method#getPathsWithSum#0;class#Main#0" />
+                <element signature="method#getPathsWithSum#1;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_01RootNode/Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="708">
+              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#601#602#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ncop</find>
+      <find>getpar</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/_003BinaryTree/PlayWithTree.java" />
+        <option value="$PROJECT_DIR$/src/_001Tree/Tree.java" />
+        <option value="$PROJECT_DIR$/src/_001Tree/Main.java" />
+        <option value="$PROJECT_DIR$/src/_002DFSAndBFS/Main.java" />
+        <option value="$PROJECT_DIR$/src/_001Tree/PlayWithTree.java" />
+        <option value="$PROJECT_DIR$/src/_002DFSAndBFS/PlayWithTree.java" />
+        <option value="$PROJECT_DIR$/src/_002DFSAndBFS/Tree.java" />
+        <option value="$PROJECT_DIR$/src/_003BinaryTree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/_003BinaryTree/Main.java" />
+        <option value="$PROJECT_DIR$/src/_01RootNode/Tree.java" />
+        <option value="$PROJECT_DIR$/src/_01RootNode/Main.java" />
+        <option value="$PROJECT_DIR$/src/_02PrintTree/Tree.java" />
+        <option value="$PROJECT_DIR$/src/_03LeadNodes/Tree.java" />
+        <option value="$PROJECT_DIR$/src/_02PrintTree/Main.java" />
+        <option value="$PROJECT_DIR$/src/_03LeadNodes/Main.java" />
+        <option value="$PROJECT_DIR$/src/_04MiddleNodes/Main.java" />
+        <option value="$PROJECT_DIR$/src/_05DeepestNode/Tree.java" />
+        <option value="$PROJECT_DIR$/src/_05DeepestNode/Main.java" />
+        <option value="$PROJECT_DIR$/src/_06LongestPath/Main.java" />
+        <option value="$PROJECT_DIR$/src/_07PathsWithGivenSum/Tree.java" />
+        <option value="$PROJECT_DIR$/src/_07PathsWithGivenSum/Main.java" />
+        <option value="$PROJECT_DIR$/src/_08SubtreesWithGivenSum/Tree.java" />
+        <option value="$PROJECT_DIR$/src/_08SubtreesWithGivenSum/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="960" />
+    <option name="height" value="982" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>OptionalGetWithoutIsPresent</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="03BasicTrees" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03BasicTrees" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="03BasicTrees" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03BasicTrees" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="03BasicTrees" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03BasicTrees" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_08SubtreesWithGivenSum" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547624043723" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_03LeadNodes" />
+      <recent name="_003BinaryTree" />
+      <recent name="_002DFSAndBFS" />
+      <recent name="_001Tree" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\VBprojects\DataStructures12.2018\03BasicTrees\src\_08SubtreesWithGivenSum" />
+      <recent name="C:\VBprojects\DataStructures12.2018\03BasicTrees\src\_07PathsWithGivenSum" />
+      <recent name="C:\VBprojects\DataStructures12.2018\03BasicTrees\src\_06LongestPath" />
+      <recent name="C:\VBprojects\DataStructures12.2018\03BasicTrees\src\_05DeepestNode" />
+      <recent name="C:\VBprojects\DataStructures12.2018\03BasicTrees\src\_04MiddleNodes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04MiddleNodes.Main" />
+      <module name="03BasicTrees" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_04MiddleNodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_05DeepestNode.Main" />
+      <module name="03BasicTrees" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_05DeepestNode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_06LongestPath.Main" />
+      <module name="03BasicTrees" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_06LongestPath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07PathsWithGivenSum.Main" />
+      <module name="03BasicTrees" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_07PathsWithGivenSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08SubtreesWithGivenSum.Main" />
+      <module name="03BasicTrees" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_08SubtreesWithGivenSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0fb881f-f0d6-43c2-8cb2-064fd35ac4c3" name="Default Changelist" comment="" />
+      <created>1547376219647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547376219647</updated>
+      <workItem from="1547376222796" duration="3086000" />
+      <workItem from="1547384009289" duration="13262000" />
+      <workItem from="1547622251729" duration="1841000" />
+      <workItem from="1548514940309" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TreeTests - 2019.01.13 at 13h 01m 21s.xml">
+      <configuration name="TreeTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeTests_buildTree_printTree_shouldWorkCorrectly - 2019.01.13 at 13h 02m 45s.xml">
+      <configuration name="TreeTests.buildTree_printTree_shouldWorkCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeTests - 2019.01.13 at 13h 03m 29s.xml">
+      <configuration name="TreeTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeTests - 2019.01.13 at 13h 05m 10s.xml">
+      <configuration name="TreeTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeTests_(1) - 2019.01.13 at 13h 11m 56s.xml">
+      <configuration name="TreeTests (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeTests_(1) - 2019.01.13 at 13h 16m 16s.xml">
+      <configuration name="TreeTests (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinaryTreeTests - 2019.01.13 at 13h 19m 35s.xml">
+      <configuration name="BinaryTreeTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinaryTreeTests - 2019.01.13 at 13h 22m 30s.xml">
+      <configuration name="BinaryTreeTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinaryTreeTests - 2019.01.13 at 13h 24m 01s.xml">
+      <configuration name="BinaryTreeTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinaryTreeTests - 2019.01.13 at 13h 24m 50s.xml">
+      <configuration name="BinaryTreeTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18223000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="960" height="982" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.239819" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32611465" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3897883" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/_003BinaryTree/BinaryTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_003BinaryTree/PlayWithTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001Tree/TreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002DFSAndBFS/TreeTests.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002DFSAndBFS/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001Tree/PlayWithTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002DFSAndBFS/PlayWithTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_003BinaryTree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="88" column="41" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_003BinaryTree/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01RootNode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002DFSAndBFS/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="34" selection-start-line="34" selection-end-line="37" selection-end-column="30" />
+          <folding>
+            <element signature="method#each#0;class#Tree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001Tree/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001Tree/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_02PrintTree/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_02PrintTree/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+          <folding>
+            <element signature="method#getTreeNodeByValue#0;class#Main#0" />
+            <element signature="method#addEdge#0;class#Main#0" />
+            <element signature="method#ReadTree#0;class#Main#0" />
+            <element signature="method#getRootNode#0;class#Main#0" />
+            <element signature="method#printTree#1;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_03LeadNodes/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1602">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_03LeadNodes/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_04MiddleNodes/Tree.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_04MiddleNodes/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="101" column="19" lean-forward="true" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="19" />
+          <folding>
+            <element signature="method#getTreeNodeByValue#0;class#Main#0" />
+            <element signature="method#addEdge#0;class#Main#0" />
+            <element signature="method#ReadTree#0;class#Main#0" />
+            <element signature="method#getRootNode#0;class#Main#0" />
+            <element signature="method#printTree#1;class#Main#0" />
+            <element signature="method#getLeafNodes#0;class#Main#0" />
+            <element signature="method#getLeafNodes#1;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_05DeepestNode/Tree.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_05DeepestNode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="119" column="1" lean-forward="true" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+          <folding>
+            <element signature="method#getTreeNodeByValue#0;class#Main#0" />
+            <element signature="method#addEdge#0;class#Main#0" />
+            <element signature="method#ReadTree#0;class#Main#0" />
+            <element signature="method#getRootNode#0;class#Main#0" />
+            <element signature="e#1580#1581#0" expanded="true" />
+            <element signature="e#1651#1652#0" expanded="true" />
+            <element signature="method#getLeafNodes#0;class#Main#0" />
+            <element signature="method#getMiddleNodes#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_06LongestPath/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="373" column="23" selection-start-line="373" selection-start-column="23" selection-end-line="373" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_06LongestPath/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="125" column="12" selection-start-line="125" selection-end-line="126" />
+          <folding>
+            <element signature="method#getTreeNodeByValue#0;class#Main#0" />
+            <element signature="method#addEdge#0;class#Main#0" />
+            <element signature="method#ReadTree#0;class#Main#0" />
+            <element signature="method#getRootNode#0;class#Main#0" />
+            <element signature="method#printTree#1;class#Main#0" />
+            <element signature="method#getLeafNodes#0;class#Main#0" />
+            <element signature="method#getMiddleNodes#0;class#Main#0" />
+            <element signature="method#getDeepestNode#0;class#Main#0" />
+            <element signature="method#getDeepestNode#1;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_08SubtreesWithGivenSum/Tree.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_07PathsWithGivenSum/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_07PathsWithGivenSum/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="732">
+          <caret line="184" column="26" selection-start-line="184" selection-start-column="26" selection-end-line="184" selection-end-column="26" />
+          <folding>
+            <element signature="method#getTreeNodeByValue#0;class#Main#0" />
+            <element signature="method#addEdge#0;class#Main#0" />
+            <element signature="method#ReadTree#0;class#Main#0" />
+            <element signature="method#getRootNode#0;class#Main#0" />
+            <element signature="method#printTree#1;class#Main#0" />
+            <element signature="method#getLeafNodes#0;class#Main#0" />
+            <element signature="method#getMiddleNodes#0;class#Main#0" />
+            <element signature="method#getDeepestNode#0;class#Main#0" />
+            <element signature="method#getDeepestNode#1;class#Main#0" />
+            <element signature="method#getLongestPath#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_08SubtreesWithGivenSum/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="214" selection-start-line="214" selection-end-line="214" />
+          <folding>
+            <element signature="method#getTreeNodeByValue#0;class#Main#0" />
+            <element signature="method#addEdge#0;class#Main#0" />
+            <element signature="method#ReadTree#0;class#Main#0" />
+            <element signature="method#printTree#1;class#Main#0" />
+            <element signature="method#getLeafNodes#0;class#Main#0" />
+            <element signature="method#getMiddleNodes#0;class#Main#0" />
+            <element signature="method#getDeepestNode#0;class#Main#0" />
+            <element signature="method#getDeepestNode#1;class#Main#0" />
+            <element signature="method#getLongestPath#0;class#Main#0" />
+            <element signature="method#getPathsWithSum#0;class#Main#0" />
+            <element signature="method#getPathsWithSum#1;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01RootNode/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
